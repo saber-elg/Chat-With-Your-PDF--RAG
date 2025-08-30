@@ -35,7 +35,7 @@ The application uses Google Gemini AI alongside document processing and retrieva
 
 - dotenv → Secure environment variable management.
 
-## 🚀 Getting Started
+## Getting Started
 ### Prerequisites
 Make sure you have the following installed:
 - Python 3.8+
