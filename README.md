@@ -1,10 +1,10 @@
 # 📚 Chat with Your PDF using Gemini 🤖
 
-## 📜 Project Overview
+## Project Overview
 Chat with Your PDF is an intelligent system that allows you to upload PDF documents and ask natural language questions about their content.
 The application uses Google Gemini AI alongside document processing and retrieval techniques to ensure responses are accurate and relevant to the uploaded file.
 
-## 🎯 Key Features
+## Key Features
 1. 📂 Document Upload & Processing
     - Upload PDFs (or text files).
     - Extracts and processes text for analysis.
@@ -21,7 +21,7 @@ The application uses Google Gemini AI alongside document processing and retrieva
     - Powered by Streamlit for a simple web interface.
     - Real-time answers from Gemini AI.
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Streamlit → Interactive web interface.
 
@@ -83,7 +83,7 @@ streamlit run app.py
 You can try the application live at:
 👉 [Chat with Your PDF](https://mbnnrjr8jgmkgzuwhbmihp.streamlit.app/)
 
-## 📧 Contact
+## Contact
 For questions or suggestions, feel free to reach out:
 
 📩 medsaberelguelta@gmail.com
